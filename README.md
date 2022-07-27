@@ -6,4 +6,4 @@ At the begining of the Covid-19 pandemic in order to attend sports you were requ
 This bot autocomplets the form in seconds opening a instance of Chrome using selinum.
 
 
-IMPORTANT: In order to use the program you must add in your information in the python script
+IMPORTANT: In order to use the program you must add your information in the python script
